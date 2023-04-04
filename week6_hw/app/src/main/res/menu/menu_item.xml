@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/cat1"
+        android:title="쫀떡이1"
+        android:icon="@drawable/jd_1"/>
+    <item
+        android:id="@+id/cat2"
+        android:title="쫀떡이2"
+        android:icon="@drawable/jd_2"/>
+
+    <item
+        android:id="@+id/cat3"
+        android:title="쫀떡이3"
+        android:icon="@drawable/jd_3"/>
+    <item
+        android:id="@+id/cat4"
+        android:title="쫀떡이4"
+        android:icon="@drawable/jd_4"/>
+    <item
+        android:id="@+id/cat5"
+        android:title="쫀떡이5"
+        android:icon="@drawable/jd_5"/>
+
+    <item
+        android:id="@+id/cat6"
+        android:title="쫀떡이6"
+        android:icon="@drawable/jd_6"/>
+
+</menu>
